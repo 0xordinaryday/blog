@@ -9,7 +9,7 @@ category: strays
 Don't leave me a voicemail.
 
 #### Okay, but why?
-Someone recently left me a voicemail but I'd never actually set up the service on my phone. So I dutifully called 101 and the helpful robot *insisted* i had to set a PIN before I could do anything else. Not just any PIN mind you, it had to be **at least** 6 digits, and complex (no repeating patterns or consecutive digits). 6 digits eh? Because someone is going to look at my phone and say - you know what? I'm prepared to brute force 10000 attempts to get into this guy's voicemail, but I draw the line at 1000000. Sure, sounds plausible *(rolls eyes)*.
+Someone recently left me a voicemail but I'd never actually set up the service on my phone. So I dutifully called 101 and the helpful robot *insisted* I had to set a PIN before I could do anything else. Not just any PIN mind you, it had to be **at least** 6 digits, and complex (no repeating patterns or consecutive digits). 6 digits eh? Because someone is going to look at my phone and say - you know what? I'm prepared to brute force 10000 attempts to get into this guy's voicemail, but I draw the line at 1000000. Sure, sounds plausible *(rolls eyes)*.
 
 #### Rant: on
 
