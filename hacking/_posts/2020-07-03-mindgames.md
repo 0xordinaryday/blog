@@ -14,7 +14,7 @@ This post contains rude words, and it's not my fault. Turn back now.
 This machine is ranked hard, we'll see if I'm up to it...
 
 ## Ports
-nmap says we've got 22 (FTP) and 80 (HTTP) only - so far so good, right?  
+nmap says we've got 22 (SSH) and 80 (HTTP) only - so far so good, right?  
 From the ttl (time-to-live) in nmap, we can guess it's a Linux box. nmap says it's running a Golang HTTP server, so that's a little different. Let's check it out.
 
 ## Webserver
