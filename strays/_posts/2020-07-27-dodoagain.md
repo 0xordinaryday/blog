@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dodo: Now I'm Getting Frustrated."
+title:  "Dodo: Why are you like this?"
 date:   2020-07-27 18:00:00 +1000
 category: strays
 ---
@@ -47,7 +47,7 @@ It's not in the contract paperwork.
 It's not on the website.   
 I haven't been sent the information.   
 
-Does anyone think Dodo *don't really want it back?* They really just want me to give up and pay the $109? Guess what Dodo; **no fucking dice.** 
+Does anyone think Dodo *don't really want it back?* They really just want me to give up and pay the $109? Guess what Dodo; **no dice.** 
 
 I'm a reasonable person, and I'm happy to send your crappy Huawei router with it's [undocumented admin account](https://hg658c.wordpress.com/)* back to you, provided you tell me where I need to send it. I'll even hold onto it for a *reasonable* amount of time to allow you to give me that information before I take it to the e-waste at the tip. But I won't keep it forever. And what I surely won't do is pay you $109. 
 
@@ -55,5 +55,13 @@ Pfft.
 
 *Yes, this applies to the Dodo router too, even though it's a slightly different model.
 
+## Update! 
+So Dodo replied to my message:
 
+>This is regarding your cancelled NBN account with Dodo.
+You do not need to return the modem anymore. 
+You can just keep it and might still use if you will get service with Dodo.
+You will not be charge for it so you can just keep your modem.
+
+So, I guess they *didn't really want it back after all*. Who would have guessed that a four year old **router** (it's still not a modem) isn't valuable to them....
 
