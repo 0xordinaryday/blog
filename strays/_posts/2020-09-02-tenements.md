@@ -32,7 +32,7 @@ Consequently, the visualisation is for category 1 licences only and *not* the ot
 ## Visualisation
 So what I've put together is a short video showing quarter-by-quarter changes in the Category 1 exploration licences in Tasmania from 1970 to the present. Check it out:
 
-<video width="840" height="724" controls>
+<video width="630" height="543" controls>
   <source src="https://res.cloudinary.com/dqvgsqwop/video/upload/v1599047971/strays/aggregate_de1lzz.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
