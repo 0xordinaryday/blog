@@ -22,7 +22,7 @@ title: "An ordinary day"
 email: "david@gibbons.digital"
 description: "Thoughts from behind the keyboard."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://gibbons.digital" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.gibbons.digital" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "0x7B9"
 github_username:  "0xordinaryday"
 
